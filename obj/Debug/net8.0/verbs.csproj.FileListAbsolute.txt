@@ -1,0 +1,14 @@
+/home/carosullivan/csharp_projects/verbs/bin/Debug/net8.0/verbs
+/home/carosullivan/csharp_projects/verbs/bin/Debug/net8.0/verbs.deps.json
+/home/carosullivan/csharp_projects/verbs/bin/Debug/net8.0/verbs.runtimeconfig.json
+/home/carosullivan/csharp_projects/verbs/bin/Debug/net8.0/verbs.dll
+/home/carosullivan/csharp_projects/verbs/bin/Debug/net8.0/verbs.pdb
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/verbs.GeneratedMSBuildEditorConfig.editorconfig
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/verbs.AssemblyInfoInputs.cache
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/verbs.AssemblyInfo.cs
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/verbs.csproj.CoreCompileInputs.cache
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/verbs.dll
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/refint/verbs.dll
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/verbs.pdb
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/verbs.genruntimeconfig.cache
+/home/carosullivan/csharp_projects/verbs/obj/Debug/net8.0/ref/verbs.dll
