@@ -1,0 +1,14 @@
+C:\Users\caros\Documents\verbs\bin\Debug\net7.0\verbs.exe
+C:\Users\caros\Documents\verbs\bin\Debug\net7.0\verbs.deps.json
+C:\Users\caros\Documents\verbs\bin\Debug\net7.0\verbs.runtimeconfig.json
+C:\Users\caros\Documents\verbs\bin\Debug\net7.0\verbs.dll
+C:\Users\caros\Documents\verbs\bin\Debug\net7.0\verbs.pdb
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\verbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\verbs.AssemblyInfoInputs.cache
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\verbs.AssemblyInfo.cs
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\verbs.csproj.CoreCompileInputs.cache
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\verbs.dll
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\refint\verbs.dll
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\verbs.pdb
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\verbs.genruntimeconfig.cache
+C:\Users\caros\Documents\verbs\obj\Debug\net7.0\ref\verbs.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5D4YyTw0+c3M34L+q+5DER/224C7O1691AkHip5l4fVIC6pkZqcucxQmpbHZa/XNa8TNrFbD+NqenkbhscrgGQ==",
+  "dgSpecHash": "f1ZD/TJRDvvi4Ol6YvDNpFMW1Iva0a+B5cWan+B7fMyIBVYqHgM5odRnoFxOWU9FSafLZ7nTatXQF46/NqOhFA==",
   "success": true,
-  "projectFilePath": "/home/carosullivan/csharp_projects/verbs/verbs.csproj",
+  "projectFilePath": "C:\\Users\\caros\\Documents\\verbs\\verbs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
